@@ -29,5 +29,4 @@ Parameters, $\alpha$ and $N$ that regulate annealing speed are the main subjects
 
 Visualization of convergence for different annealing speeds:
 
-![](https://i.imgur.com/VPpNqFD.png)
-
+![](https://i.imgur.com/gLTknMF.jpg)
